@@ -9,7 +9,7 @@ And now chasing a new career path to become a web developer
 
 I'm currently Learning Front-End Engineer at Codecademy.com 👨🏻‍💻
 
-<div align="">
+<div display="inline-box>
   <a href="https://github.com/jopacorrea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopacorrea&layout=compact&langs_count=7&theme=ayu-mirage"/>
