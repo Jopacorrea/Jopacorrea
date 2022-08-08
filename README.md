@@ -1,16 +1,31 @@
-### Hi there 👋
+## How you doing 😁
+My name is João Paulo, knowed as **Jopa**
 
-<!--
-**Jopacorrea/Jopacorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Brazil 🇧🇷, living and studing in Canada 🇨🇦
 
-Here are some ideas to get you started:
+I work as _Digital Marketing Manager_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And now chasing a new career path to become a web developer
+
+I'm currently Learning Front-End Engineer at Codecademy.com 👨🏻‍💻
+
+<div align="center">
+  <a href="https://github.com/jopacorrea">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopacorrea&layout=compact&langs_count=7&theme=ayu-mirage"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jopa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jopa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/jopacorrea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopaulo-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:jopa.correa27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
+</div>
