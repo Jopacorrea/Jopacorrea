@@ -1,7 +1,7 @@
 ## How you doing 😁
 My name is João Paulo, knowed as **Jopa**
 
-From Brazil 🇧🇷, living and studing in Canada 🇨🇦
+From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
 I work as _Digital Marketing Manager_
 
