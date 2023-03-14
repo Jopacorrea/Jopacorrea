@@ -1,9 +1,9 @@
 ## Hey you! 😁
-My name is João Paulo, knowed as **Jopa**
+My name is João Paulo, knowed as **JP**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
-I work as _Digital Marketing Manager_
+I work as _Digital Marketing Manager_ and as _Educator at Lululemon_
 
 And now chasing a new career path to become a web developer
 
