@@ -1,4 +1,4 @@
-## How you doing 😁
+## Hey you! 😁
 My name is João Paulo, knowed as **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
