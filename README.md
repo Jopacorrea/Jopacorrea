@@ -1,5 +1,5 @@
 ## Hey you! 😁
-My name is João Paulo, knowed as **JP**
+My name is João Paulo, knowed as **JP** or **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
