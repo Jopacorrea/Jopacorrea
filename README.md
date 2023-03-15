@@ -5,7 +5,7 @@ From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
 I work as _Digital Marketing Manager_ and as an _Educator at Lululemon_
 
-And now chasing a new career path to become a web developer
+And now chasing for a new career path
 
 I'm currently Learning Front-End Engineer at Codecademy.com 👨🏻‍💻
 
