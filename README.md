@@ -3,11 +3,9 @@ My name is João Paulo, knowed as **JP** or **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
-I work as _Digital Marketing Manager_ and as an _Educator at Lululemon_
+I work as _Digital Engagement Community Support_ at lululemon
 
-And now chasing for a new career path
-
-I'm currently Learning Front-End Engineer at Codecademy.com 👨🏻‍💻
+And now chasing for a new career path 👨🏻‍💻
 
 <div display="inline_block>
   <a href="https://github.com/jopacorrea">
