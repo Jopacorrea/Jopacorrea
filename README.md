@@ -3,11 +3,11 @@ My name is João Paulo, knowed as **JP** or **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
-I work as _Digital Engagement Community Support_ at lululemon
+I work as _Digital Engagement_ at lululemon
 
 And now chasing for a new career path 👨🏻‍💻
 
-<div display="inline_block>
+<div display="inline_block">
   <a href="https://github.com/jopacorrea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopacorrea&layout=compact&langs_count=7&theme=ayu-mirage"/>
