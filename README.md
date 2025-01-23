@@ -3,7 +3,7 @@ My name is João Paulo, knowed as **JP** or **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
 
-I work as _Digital Engagement_ at lululemon
+Attending _Software Engineering Bootcamp_ at BrainStation
 
 And now chasing for a new career path 👨🏻‍💻
 
