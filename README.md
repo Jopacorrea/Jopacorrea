@@ -9,7 +9,7 @@ And now chasing for a new career path 👨🏻‍💻
 
 <div display="inline_block">
   <a href="https://github.com/jopacorrea">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopacorrea&layout=compact&langs_count=10&theme=ayu-mirage"/>
 </div>
     
