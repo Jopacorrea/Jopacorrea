@@ -1,4 +1,6 @@
-## Hey you! 😁
+![image](https://github.com/user-attachments/assets/b6287f4a-7774-4f34-b221-ed769c947753)
+#
+Hey you! 😁
 My name is João Paulo, knowed as **JP** or **Jopa**
 
 From Brazil 🇧🇷, living and studying in Canada 🇨🇦
