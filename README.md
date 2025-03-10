@@ -1,9 +1,12 @@
-![image](https://github.com/user-attachments/assets/b6287f4a-7774-4f34-b221-ed769c947753)
+![image](https://github.com/user-attachments/assets/86494e4c-843a-4afa-87fc-01f640491c35)
+
+
 #
 Hey you! 😁
-My name is João Paulo, knowed as **JP** or **Jopa**
 
-From Brazil 🇧🇷, living and studying in Canada 🇨🇦
+My name is João Paulo, knowed as **JP**
+
+From Brazil 🇧🇷 living and studying in Canada 🇨🇦
 
 Studying _Software Engineering_ at BrainStation
 
@@ -12,7 +15,7 @@ And now chasing for a new career path 👨🏻‍💻
 <div display="inline_block">
   <a href="https://github.com/jopacorrea">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&layout=compact&langs_count=10&theme=ayu-mirage"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&layout=compact&langs_count=10&theme=ayu-mirage"/> 
 </div>
     
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +30,9 @@ And now chasing for a new career path 👨🏻‍💻
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
   </div>
 </div>
  
@@ -38,6 +44,4 @@ And now chasing for a new career path 👨🏻‍💻
   <a href = "mailto:jopa.correa27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <!-- ![Snake animation](https://github.com/jopacorrea/jopacorrea/blob/output/github-contribution-grid-snake.svg)-->
-
 </div>
-
