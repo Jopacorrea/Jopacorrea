@@ -9,11 +9,11 @@ My name is João Paulo, knowed as **JP**. From Brazil 🇧🇷 living and studyi
 Studying _Software Engineering_ at BrainStation. And now chasing for a new career path 👨🏻‍💻
 
 <div display="inline_block" align="center">
-  <a href="https://github.com/jopacorrea">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&layout=compact&langs_count=10&theme=ayu-mirage"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=Jopacorrea&theme=catppuccin_mocha&hide_border=false" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
-    
+
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <div align="center"> 
@@ -31,9 +31,7 @@ Studying _Software Engineering_ at BrainStation. And now chasing for a new caree
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
   </div>
 </div>
- 
-  ##
- 
+<br>
 <div align="center">  
   <a href="https://www.instagram.com/jopacorrea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopaulo-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -41,3 +39,18 @@ Studying _Software Engineering_ at BrainStation. And now chasing for a new caree
   
  <!-- ![Snake animation](https://github.com/jopacorrea/jopacorrea/blob/output/github-contribution-grid-snake.svg)-->
 </div>
+<br>
+<br>
+ 
+  ##
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jopacorrea&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> 
+</div>
+<br>
+<br>
+<div align="center">
+  <img height="240em" src="https://github-contributor-stats.vercel.app/api?username=Jopacorrea&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" />
+  <img height="240em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+  
+</div>
+
