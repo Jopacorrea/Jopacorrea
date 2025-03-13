@@ -3,9 +3,9 @@
 
 <h2>Hey you! 😁</h2>
 
-<h3>My name is João Paulo, knowed as <em>JP</em>JP. From Brazil 🇧🇷 living and studying in Canada 🇨🇦</h3>
+<h4>My name is João Paulo, knowed as <strong>JP</strong> From Brazil 🇧🇷 living and studying in Canada 🇨🇦</h4>
 
-<h3>Studying <em>Software Engineering</em> at BrainStation. And now chasing for a new career path 👨🏻‍💻</h3>
+<h4>Studying <em>Software Engineering</em> at BrainStation. And now chasing for a new career path 👨🏻‍💻</h4>
 
 <div display="inline_block" align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
