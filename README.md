@@ -2,11 +2,11 @@
 
 
 #
-Hey you! 😁
+##Hey you! 😁
 
-My name is João Paulo, knowed as **JP**. From Brazil 🇧🇷 living and studying in Canada 🇨🇦. 
+###My name is João Paulo, knowed as **JP**. From Brazil 🇧🇷 living and studying in Canada 🇨🇦. 
 
-Studying _Software Engineering_ at BrainStation. And now chasing for a new career path 👨🏻‍💻
+###Studying _Software Engineering_ at BrainStation. And now chasing for a new career path 👨🏻‍💻
 
 <div display="inline_block" align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
