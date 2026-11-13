@@ -8,9 +8,9 @@
 <h4>Studying <em>Software Engineering</em> at BrainStation. And now chasing for a new career path 👨🏻‍💻</h4>
 
 <div display="inline_block" align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=Jopacorrea&theme=catppuccin_mocha&hide_border=false" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopacorrea&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> -->
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
