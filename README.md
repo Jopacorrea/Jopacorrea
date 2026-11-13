@@ -43,13 +43,13 @@
  
   ##
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jopacorrea&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> 
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Jopacorrea&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />  -->
 </div>
 <br>
 <br>
 <div align="center">
-  <img height="240em" src="https://github-contributor-stats.vercel.app/api?username=Jopacorrea&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" />
-  <img height="240em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+  <!-- <img height="240em" src="https://github-contributor-stats.vercel.app/api?username=Jopacorrea&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" />
+  <img height="240em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" /> ESSE FUNCIONA-->
   
 </div>
 
